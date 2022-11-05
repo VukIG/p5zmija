@@ -3,6 +3,16 @@
     margin:0%;
 }
 
+canvas{
+    width: 80%;
+    height: 80%;
+}
+
+.highscore, .score{
+    margin-top: 30px;
+    text-align: center;
+}
+
 #root{
     width: 30%;
     height: 30%;
